@@ -54,10 +54,3 @@ Acesse: `http://localhost:8000`
 - `frontend/`: interface web estatica
 - `generate_notebook.py`: utilitario para geracao de notebook
 
-## Publicacao no GitHub
-
-O projeto ja esta preparado para publicacao com:
-
-- `.gitignore` para evitar subir `venv`, banco local, caches e arquivos de ambiente
-- `.env.example` para configuracao segura
-- remocao de chave de API hardcoded do codigo
